@@ -2,5 +2,6 @@
 *.log
 *.csv~
 .DS_Store
+.Rhistory
 Thumbs.db
 .vscode/
