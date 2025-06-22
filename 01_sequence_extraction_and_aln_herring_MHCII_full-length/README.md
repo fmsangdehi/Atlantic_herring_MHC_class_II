@@ -1,0 +1,1 @@
+This folder contains scripts used to extract full-length MHC class II CDS and protein sequences from Atlantic herring using .gtf files. The extracted sequences were aligned and then manually curated. The outputs are included in this directory.
